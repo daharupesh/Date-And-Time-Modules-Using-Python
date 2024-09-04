@@ -1,6 +1,3 @@
-Here's an overview of the functions provided by the `datetime` and `time` modules, which you can include in your `README.md` file on GitHub.
-
----
 
 # Date and Time Functions in Python
 
